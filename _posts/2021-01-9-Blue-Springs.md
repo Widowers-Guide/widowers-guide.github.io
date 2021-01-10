@@ -14,6 +14,7 @@ tag:
 ## The Tennick Serpent
 
 LOCATION: BLUE SPRINGS STATE PARK, ALABAMA
+
 MINERAL: ARGONITE
 
 ## Description
