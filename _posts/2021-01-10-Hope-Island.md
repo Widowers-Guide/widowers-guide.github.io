@@ -3,7 +3,7 @@ layout: post
 title:  "The Hope Chime"
 date:   2021-01-10
 excerpt: "HOPE ISLAND STATE PARK, WASHINGTON"
-image: /images/HopeChime.jpg
+image: /images/TheHopeChime.jpg
 tag:
 - Washington
 - Faerie
