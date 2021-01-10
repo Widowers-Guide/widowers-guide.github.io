@@ -12,7 +12,7 @@ tag:
 - Stick Bearer
 ---
 
-## The Tennick Serpent
+## The Beaver Stickbearer
 
 LOCATION: WOOD TIKCHIK STATE PARK, ALASKA
 
