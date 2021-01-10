@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Blue Springs - AL"
+title:  "The Tennick Serpent"
 date:   2021-01-9
-excerpt: "Look at what the format usually looks like."
+excerpt: "BLUE SPRINGS STATE PARK, ALABAMA"
 image: /images/TennickSerpent.jpg
 tag:
 - Alabama
@@ -13,9 +13,8 @@ tag:
 
 ## The Tennick Serpent
 
-### LOCATION: BLUE SPRINGS STATE PARK, ALABAMA
-
-### MINERAL: ARGONITE
+LOCATION: BLUE SPRINGS STATE PARK, ALABAMA
+MINERAL: ARGONITE
 
 ## Description
 
