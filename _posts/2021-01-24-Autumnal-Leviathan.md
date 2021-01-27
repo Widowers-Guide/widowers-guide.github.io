@@ -3,7 +3,7 @@ layout: post
 title:  "The Autumnal Leviathan"
 date:   2021-01-24
 excerpt: "CAPTREE STATE PARK, NEW YORK"
-image: /images/AutumnWyrm.jpg
+image: /images/Autumn Wyrm.jpg
 tag:
 - New York
 - Wyrm
