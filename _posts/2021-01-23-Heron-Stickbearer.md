@@ -12,7 +12,7 @@ tag:
 - Sapphire
 ---
 
-##The Heron Stickbearer
+## The Heron Stickbearer
 
 LOCATION: POTATO CREEK STATE PARK, INDIANA
 

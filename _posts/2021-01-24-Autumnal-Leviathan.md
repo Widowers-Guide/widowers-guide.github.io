@@ -10,7 +10,7 @@ tag:
 - Annite
 ---
 
-##The Autumnal Leviathan
+## The Autumnal Leviathan
 
 LOCATION: CAPTREE STATE PARK, NEW YORK
 

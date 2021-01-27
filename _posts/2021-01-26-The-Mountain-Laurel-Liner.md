@@ -11,7 +11,7 @@ tag:
 - Rhodonite
 ---
 
-##The Mountain Laurel Liner
+## The Mountain Laurel Liner
 
 LOCATION: ROCKY GAP STATE PARK, MARYLAND
 

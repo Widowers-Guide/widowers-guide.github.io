@@ -10,7 +10,7 @@ tag:
 - Ruby
 ---
 
-##Fossil Snatcher
+## Fossil Snatcher
 
 LOCATION: FALLS OF OHIO STATE PARK, INDIANA
 

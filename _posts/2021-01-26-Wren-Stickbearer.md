@@ -11,7 +11,7 @@ tag:
 - Pyrite
 ---
 
-##The Wren Stickbearer
+## The Wren Stickbearer
 
 LOCATION: CATTAIL COVER STATE PARK, ARIZONA
 
