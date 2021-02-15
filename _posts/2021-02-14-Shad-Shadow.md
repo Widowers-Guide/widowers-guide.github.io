@@ -3,7 +3,7 @@ layout: post
 title:  "Shad-shadow"
 date:   2021-02-14
 excerpt: "ELMORE STATE PARK, VERMONT"
-image: /images/samurai.png
+image: /images/samurai.jpg
 tag:
 - Vermont
 - Rodent
