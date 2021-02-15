@@ -22,7 +22,3 @@ A small, incongruent bat with a tendency to cause trouble to the humans who live
 
 ## Encounter
 While I enjoy my role as a researcher, err... logger? I do take a break every now and then. More often than not, however, I still run into someone strange along the trail. In this case, I was sitting down to a nice showing at the local theatre when Cheeseman swooped in alongside me, taking up the seat next to me. I thought it funny until he opened his mouth, trying to guage my reaction to the current performance. When I refused to break my respectful silence, he then got up on stage and began swooping about, trying to demonstrate a different type of casting placement that he'd discussed with me prior. It was quite the strange thing to deal with, from the audience and actors both. Afterwards, a few friends of the bat handed out vouchers for free ice cream at a local establishment. They apologized for their friends behaviour, promising that it had happened quite a bit in the past, and would likely continue into the future, but that they would give him a stern talking to anyways.
-
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YqQqvDoBraz14GvDawIjg1hIuacWbqF8" width="640" height="480"></iframe>
-
